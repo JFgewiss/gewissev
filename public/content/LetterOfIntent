@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 3,
+      "datum": "01. Juli 2022",
+      "ueberschrift": "Einladung zum offenen Schloss",
+      "teaser": "herzlich laden wir Sie und euch ein am Samstag, den 24.9.2022 ab 10 Uhr nach Henneckenrode zu kommen und uns, das Schloss und das Gelände (besser) kennen zu lernen.",
+      "text": [
+        {
+          "typ": "absatz",
+          "content": "Es wird ein buntes Programm und Raum zum Erleben und Begegnen geben - siehe Einladung im Anhang. Wir freuen uns auf gemeinsame Stunden, einen Beitrag zum Mitmach-Buffett und bitten um Rückmeldung, um abschätzen zu können wie viele Menschen wir erwarten dürfen."
+        },
+        {
+          "typ": "header",
+          "content": "Herzliche Grüße"
+        },
+        {
+          "typ": "absatz",
+          "content": "Vera Lemke"
+        },
+        {
+          "typ": "absatz",
+          "content": "für gewiss e.V."
+        }
+      ]
+    }
+  ]
+}
